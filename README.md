@@ -1,7 +1,7 @@
 ### 
 **🙋‍♂️ About me**
 
-A seasoned Research Scientist/ML Engineer with research and industry experience in leading projects that apply Machine Learning tools to tackle difficult problems. Highly enthusiastic about applying my knowledge to proffer solutions to problems in new, challenging, or unfamiliar terrains. Experience in Optimization, Natural Language Processing, Anomaly Detection, Time series, Recommender Systems and Computer Vision.  
+Research Scientist/ML Engineer with research and industry experience in leading projects that apply Machine Learning tools to tackle difficult problems. Highly enthusiastic about applying my knowledge to proffer solutions to problems in new, challenging, or unfamiliar terrains. Experience in Optimization, Natural Language Processing, Anomaly Detection, Time series, Recommender Systems and Computer Vision.  
 
 <!--
 **Qunlexie/Qunlexie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
